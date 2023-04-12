@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1797520/screenshots/5972836/media/071259f24e24835ba9d0f8d7969817aa.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e470kq676ldo46k7l7b8sk17xkt1k4ct2vp0qkjpx80&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrah05&label=Profile%20views&color=0e75b6&style=flat" alt="skyrah05" /> </p>
 
