@@ -10,19 +10,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrah05&label=Profile%20views&color=0e75b6&style=flat" alt="skyrah05" /> </p>
 
-- 🔭 I’m currently working on **College Portal**
+- 🔭 I’m currently working as **Associate Software Developer L1**
 
-- 🌱 I’m currently learning **AdvanceJava**
+- 🌱 I’m currently learning **.Net API**
 
 - 👯 I’m looking to collaborate on **EmergingTechnology**
 
-- 💬 Ask me about **Java**, **HTML**, **CSS**, **JavaScript**, **MySQL**, **React** 
+- 💬 Ask me about **Java**, **HTML**, **CSS**, **JavaScript**, **MySQL**, **React**, **.Net API**, **Jira**, **Git**
 
 - 📫 How to reach me **skyrahhgupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/khushi-gupta-655904237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/khushi-gupta-655904237" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gupta-khushi05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gupta-khushi05/" height="30" width="40" /></a>
 <a href="https://kaggle.com/skyrahhgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="skyrahhgupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/skyrah_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="skyrah_05" height="30" width="40" /></a>
 </p>
