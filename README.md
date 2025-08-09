@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working as **Associate Software Developer L1**
 
-- 🌱 I’m currently learning **.Net API**
+- 🌱 I’m currently learning **AZ-104 Azure Administrator Associate**
 
 - 👯 I’m looking to collaborate on **EmergingTechnology**
 
-- 💬 Ask me about **Java**, **HTML**, **CSS**, **JavaScript**, **MySQL**, **React**, **.Net API**, **Jira**, **Git**
+- 💬 Ask me about **Java**, **.Net Core**, **React**, **JavaScript**, **MySQL**, **Tailwind CSS**, **Postman**, **Azure**, **Jira**, **Git**
 
 - 📫 How to reach me **skyrahhgupta@gmail.com**
 
